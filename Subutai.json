@@ -45,7 +45,7 @@
         ]
       },
       {
-        "name": "webservers",
+        "name": "web_servers",
         "python-interpreter": "/usr/bin/python3",
         "hostnames": [
           "web"
