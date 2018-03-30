@@ -3,4 +3,4 @@
   sudo: yes
   tasks:
     - name: exec shell
-      shell: fdsafsdf sdfsdfasf
+      shell: echo "opa opa" >> /tmp/test
