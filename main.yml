@@ -3,4 +3,4 @@
   sudo: yes
   tasks:
     - name: exec shell
-      shell: echo "hello" >> /tmp/test
+      shell: ls  >>  sydyk
